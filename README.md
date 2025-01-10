@@ -1,4 +1,4 @@
-# logica-argumentation-support
+# logicas-argumentation-support
 
 # Logical Argumentation App Support
 
